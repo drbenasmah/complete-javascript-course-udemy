@@ -6,3 +6,6 @@ console.log(country);
 console.log(continent);
 console.log(population);
 console.log(`It's really going well`);
+if (condition) {
+} else {
+}
